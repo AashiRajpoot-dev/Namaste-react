@@ -1,0 +1,21 @@
+{
+  "name": "namaste-react-2025",
+  "version": "1.0.0",
+  "description": "this is Namste React",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "author": "Aashi Rajpoot",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@parcel/source-map": "^2.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.29.0"
+  }
+}
