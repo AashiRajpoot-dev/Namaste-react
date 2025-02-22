@@ -1,6 +1,7 @@
 
-    restaurants = [
+  const  restaurants = [
       {
+        id:1,
         name: "The Spice House",
         cuisine: "Indian",
         star_rating: 4.5,
@@ -11,6 +12,7 @@
         price: 12.99,
       },
       {
+        id:2,
         name: "Sushi Delight",
         cuisine: "Japanese",
         star_rating: 4.7,
@@ -21,6 +23,7 @@
         price: 15.99,
       },
       {
+        id:3,
         name: "Pasta Paradise",
         cuisine: "Italian",
         star_rating: 3.3,
@@ -31,6 +34,7 @@
         price: 11.99,
       },
       {
+        id:4,
         name: "Taco Fiesta",
         cuisine: "Mexican",
         star_rating: 4.6,
@@ -41,6 +45,7 @@
         price: 9.99,
       },
       {
+        id:5,
         name: "Burger Town",
         cuisine: "American",
         star_rating: 3.4,
@@ -51,6 +56,7 @@
         price: 8.99,
       },
       {
+        id:6,
         name: "Dragon Wok",
         cuisine: "Chinese",
         star_rating: 2.5,
@@ -61,6 +67,7 @@
         price: 13.99,
       },
       {
+        id:7,
         name: "Middle East Feast",
         cuisine: "Lebanese",
         star_rating: 4.8,
@@ -71,6 +78,7 @@
         price: 10.99,
       },
       {
+        id:8,
         name: "Green Earth",
         cuisine: "Vegan",
         star_rating: 4.6,
@@ -81,6 +89,7 @@
         price: 14.99,
       },
       {
+        id:9,
         name: "French Delights",
         cuisine: "French",
         star_rating: 3.7,
